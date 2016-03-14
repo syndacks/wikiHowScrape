@@ -1,6 +1,0 @@
-{
-  "name": "scraper!",
-  "dependencies": {
-    "summarize": "^1.5.0"
-  }
-}
